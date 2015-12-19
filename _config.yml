@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mdougla3.github.io
+title: McCay's Portfolio
+email: mdougla3@gmail.com
+author: Mac
+description: This is my TinyPress site to display some of my portfolio work. 
+paginate: 3
+google_analytics: 
